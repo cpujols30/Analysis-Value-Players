@@ -4,7 +4,7 @@
 ## Descripción:
 ### Este proyecto utiliza datos de jugadores de fútbol para predecir su valor de mercado mediante un modelo de regresión lineal.
 
-## Dataset:
+## Dataset:
 ### Procedencia del dataset: https://www.kaggle.com/datasets/davidcariboo/player-scores?select=player_valuations.csv
 
 ## Requisitos:
